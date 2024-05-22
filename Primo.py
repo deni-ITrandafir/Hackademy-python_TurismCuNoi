@@ -6,7 +6,7 @@ from tkintermapview import TkinterMapView
 customtkinter.set_default_color_theme("blue")
 
 
-class App(customtkinter.CTk):
+class App(customtkinter.CTk): 
 
     APP_NAME = "TURISM CU NOI"
     WIDTH = 800
